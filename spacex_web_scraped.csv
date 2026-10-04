@@ -1,0 +1,7 @@
+Flight No.,Date,Time,Version Booster,Launch Site,Payload,Payload mass,Orbit,Customer,Launch outcome,Booster landing
+8,6 January 2014,22:06,F9 v1.1,"CCAFS,SLC-40",Thaicom 6[22],"3,325 kg (7,330 lb)",GTO,Thaicom,Success[42],No attempt[43]
+9,18 April 2014,19:25,F9 v1.1,"Cape Canaveral,LC-40",SpaceX CRS-3[22](Dragon C105),"2,296 kg (5,062 lb)[45]",LEO (ISS),NASA (CRS),Success,Controlled(ocean) [d][46]
+10,14 July 2014,15:15,F9 v1.1,"Cape Canaveral,LC-40",Orbcomm-OG2-1(6 satellites)[22],"1,316 kg (2,901 lb)",LEO,Orbcomm,Success[51],Controlled(ocean)[d][46]
+11,5 August 2014,08:00,F9 v1.1,"Cape Canaveral,LC-40",AsiaSat 8[22][54][55],"4,535 kg (9,998 lb)",GTO,AsiaSat,Success[56],No attempt[57]
+12,7 September 2014,05:00,F9 v1.1B1011[8],"Cape Canaveral,LC-40",AsiaSat 6[22][54][58],"4,428 kg (9,762 lb)",GTO,AsiaSat,Success[59],No attempt
+13,21 September 2014,05:52,F9 v1.1B1010[8],"Cape Canaveral,LC-40",SpaceX CRS-4[22](Dragon C106.1),"2,216 kg (4,885 lb)[62]",LEO (ISS),NASA (CRS),Success[63],Uncontrolled(ocean)[d][64]
